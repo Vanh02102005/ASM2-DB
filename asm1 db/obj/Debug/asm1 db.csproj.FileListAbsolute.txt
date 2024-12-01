@@ -1,0 +1,17 @@
+D:\WF\ASM2\asm1 db\asm1 db\bin\Debug\asm1 db.exe.config
+D:\WF\ASM2\asm1 db\asm1 db\bin\Debug\asm1 db.exe
+D:\WF\ASM2\asm1 db\asm1 db\bin\Debug\asm1 db.pdb
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1 db.csproj.AssemblyReference.cache
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Form1.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Properties.Resources.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1 db.csproj.GenerateResource.cache
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1 db.csproj.CoreCompileInputs.cache
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1 db.exe
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1 db.pdb
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Form2.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Employee.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Product_Management.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Statistics.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Customer.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Order.resources
+D:\WF\ASM2\asm1 db\asm1 db\obj\Debug\asm1_db.Register.resources
